@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "6256e19edc90a881cc8c07f1"
+  },
+  "name": "Leanne Graham",
+  "email": "Sincere@april.biz",
+  "company": "Romaguera-Crona",
+  "address": "Gwenborough",
+  "phone": "1-770-736-8031 x56442",
+  "username": "Bret",
+  "website": "hildegard.org",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6256e2fbdc90a881cc8c07f3"
+  },
+  "name": "Ervin Howell",
+  "email": "Shanna@melissa.tv",
+  "company": "Deckow-Crist",
+  "address": "Wisokyburgh",
+  "phone": "010-692-6593 x09125",
+  "username": "Antonette",
+  "website": "anastasia.net",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6256e659dc90a881cc8c07f5"
+  },
+  "name": "Clementine Bauch",
+  "email": "Nathan@yesenia.net",
+  "company": "Romaguera-Jacobson",
+  "address": "McKenziehaven",
+  "phone": "1-463-123-4447",
+  "username": "Samantha",
+  "website": "ramiro.info",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6256e6dadc90a881cc8c07f7"
+  },
+  "name": "Patricia Lebsack",
+  "email": "Julianne.OConner@kory.org",
+  "company": "Robel-Corkery",
+  "address": "South Elvis",
+  "phone": "493-170-9623 x156",
+  "username": "Karianne",
+  "website": "kale.biz",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6256e746dc90a881cc8c07f9"
+  },
+  "name": "Chelsey Dietrich",
+  "email": "Lucio_Hettinger@annie.ca",
+  "company": "Keebler LLC",
+  "address": "Roscoeview",
+  "phone": "(254)954-1289",
+  "username": "Kamren",
+  "website": "demarco.info",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6256e7e4dc90a881cc8c07fb"
+  },
+  "name": "Mrs. Dennis Schulist",
+  "email": "Karley_Dach@jasper.info",
+  "company": "Considine-Lockman",
+  "address": "South Christy",
+  "phone": "1-477-935-8478 x6430",
+  "username": "Leopoldo_Corkery",
+  "website": "ola.org",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6256e87bdc90a881cc8c07fd"
+  },
+  "name": "Kurtis Weissnat",
+  "email": "Telly.Hoeger@billy.biz",
+  "company": "Considine-Lockman",
+  "address": "Howemouth",
+  "phone": "210.067.6132",
+  "username": "Elwyn.Skiles",
+  "website": "Johns Group",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6256e984dc90a881cc8c07ff"
+  },
+  "name": "Nicholas Runolfsdottir V",
+  "email": "Sherwood@rosamond.me",
+  "company": "Abernathy Group",
+  "address": "Aliyaview",
+  "phone": "586.493.6943 x140",
+  "username": "Maxime_Nienow",
+  "website": "jacynthe.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6256e9e3dc90a881cc8c0801"
+  },
+  "name": "Glenna Reichert",
+  "email": "Chaim_McDermott@dana.io",
+  "company": "Yost and Sons",
+  "address": "Bartholomebury",
+  "phone": "(775)976-6794 x41206",
+  "username": "Delphine",
+  "website": "conrad.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6256ea52dc90a881cc8c0803"
+  },
+  "name": "Clementina DuBuque",
+  "email": "Rey.Padberg@karina.biz",
+  "company": "Hoeger LLC",
+  "address": "Lebsackbury",
+  "phone": "024-648-3804",
+  "username": "Moriah.Stanton",
+  "website": "ambrose.net",
+  "__v": 0
+}]
