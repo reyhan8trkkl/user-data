@@ -1,12 +1,12 @@
 const cors=require("cors");
 const corsOptions ={
    origin:'*', 
-   credentials:true,            //access-control-allow-credentials:true
+   credentials:true,            
    optionSuccessStatus:200,
 }
 const express = require("express");
 const app = express();
-app.use(cors(corsOptions)) // Use this after the variable declaration
+app.use(cors(corsOptions))
 const importData = require("./users.json");
 let port = process.env.PORT || 3001;
 
